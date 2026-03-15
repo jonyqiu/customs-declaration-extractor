@@ -1,6 +1,6 @@
 # 报关单信息提取工具
 
-从海关报关单XML报文中提取关键信息（直接下载的XML文件需要用电子税务局出口退税管理功能客户端工具解密，工具下载地址：https://zhejiang.chinatax.gov.cn/col/col17636/index.html），结合外汇管理局汇率计算本币金额，并导出到Excel。
+从海关报关单XML报文中提取关键信息（直接下载的XML文件需要用电子税务局出口退税管理功能客户端工具解密，工具下载地址：https://zhejiang.chinatax.gov.cn/col/col17636/index.html）， 结合外汇管理局汇率计算本币金额，并导出到Excel。
 
 ## 功能
 
